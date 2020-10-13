@@ -3,7 +3,7 @@
 Alex is the latest, state of the art, awesome colleague for developers/tech companies.
 It will provide assistance, feedback, and ideas to build new features and apps, and in the future it will also warn you when issues/bugs arise and help you fix them.
 
-<div   align="center"  >
+<div align="center"  >
 <a href="https://github.com/team-cake"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=team-cake&hide=stars,issues,contribs&show_icons=true&theme=vue&count_private=true" /></a> </div>
 
 ---
@@ -63,7 +63,7 @@ Get in touch if you have anything fun to add!
 Alex is working hard on the following apps:  
 
 <div   align="center"  >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=mode-FE&layout=compact&theme=vue" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=codetracker-FE&layout=compact&theme=vue" />
+ <a href="https://github.com/team-cake/mode-FE">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=mode-FE&layout=compact&theme=vue" /></a> <a href="https://github.com/team-cake/codetracker-FE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=codetracker-FE&layout=compact&theme=vue" /> </a>
 </div>
 
 ---
