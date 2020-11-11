@@ -4,7 +4,7 @@ Alex is the latest, state of the art, awesome colleague for developers/tech comp
 It will provide assistance, feedback, and ideas to build new features and apps, and in the future it will also warn you when issues/bugs arise and help you fix them.
 
 <div align="center"  >
-<a href="https://github.com/team-cake"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=team-cake&hide=stars,issues,contribs&show_icons=true&theme=vue&count_private=true" /></a> </div>
+<a href="https://github.com/team-cake"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=team-cake&hide=issues&show_icons=true&theme=vue&count_private=true" /></a> </div>
 
 ---
 
