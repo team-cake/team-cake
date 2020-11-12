@@ -1,7 +1,8 @@
 ## :new: Alex - the brand new awesome colleague for developers :new:
 
 Alex is the latest, state of the art, awesome colleague for developers/tech companies.
-It will provide assistance, feedback, and ideas to build new features and apps, and in the future it will also warn you when issues/bugs arise and help you fix them.
+It will provide assistance, feedback, and ideas to build new features and apps, and in the future it will also warn you when issues/bugs arise and help you fix them.  
+Looking to kill some time while you're here? [Click here to play a sudoku puzzle!](https://team-cake.github.io/sudoku/)  
 
 <div align="center"  >
 <a href="https://github.com/team-cake"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=team-cake&hide=issues&show_icons=true&theme=vue&count_private=true" /></a> </div>
