@@ -61,10 +61,10 @@ At the moment of writing, Alex is *operational*.
 Still in development and trying new technologies to improve the code and the UI.  
 To make it more appealing for other tech teams and projects, the plan is to implement more coding related subjects.  
 Get in touch if you have anything fun to add!  
-Alex is working hard on the following apps:  
+Alex is working hard on the following app:  
 
 <div   align="center"  >
- <a href="https://github.com/team-cake/mode-FE">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=mode-FE&layout=compact&theme=vue" /></a> <a href="https://github.com/team-cake/codetracker-FE"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=codetracker-FE&layout=compact&theme=vue" /> </a>
+ <a href="https://github.com/team-cake/Conroy">  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=team-cake&repo=Conroy&layout=compact&theme=vue" /></a> 
 </div>
 
 ---
