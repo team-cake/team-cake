@@ -59,7 +59,6 @@ Besides Full Stack technologies, Alex has the following features:
 Project is: _in progress_  
 At the moment of writing, Alex is *operational*.  
 Still in development and trying new technologies to improve the code and the UI.  
-To make it more appealing for other tech teams and projects, the plan is to implement more coding related subjects.  
 Get in touch if you have anything fun to add!  
 Alex is working hard on the following app:  
 
